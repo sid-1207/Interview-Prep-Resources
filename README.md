@@ -63,6 +63,10 @@ I would highly recommend this course. It includes detailed Lectures, Quizzes, FA
    - **COMPANY ARCHIVES FROM GFG ARE MUST**<br>
    - Questions on [Sorting algorithms ](https://www.geeksforgeeks.org/sorting-algorithms/) and [Stability in Sorting](https://www.geeksforgeeks.org/stability-in-sorting-algorithms/) are also asked in Interviews
  
+ ## **5. Object Oriented Design** <br>
+ Low Level Design is enough for Internship Interviews<br>
+ [System Design](https://crack-oop-system-design.herokuapp.com/)<br>
+ 
  ## **Miscellaneous**
 [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/#DBMS%20Mock%20Tests)- Must go through to get a rough idea about the type of questions asked and gain little confidence<br>
 [General Aptitude and Math](https://www.indiabix.com/)-For MCQs asked in Coding tests<br>
