@@ -25,7 +25,7 @@ I would highly recommend this course. It includes detailed Lectures, Quizzes, FA
 
 ## **2. Database Management Systems<br>**
 [GateSmashers DBMS Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)- Full course content covered along with SQL queries<br>
-[Last Minute Revision](https://www.geeksforgeeks.org/last-minute-notes-dbms/)- Highly useful for Revision<br>
+
 - Some topics which you might miss out or won't understand in detail:<br>
   [Difference between SQL and NoSQL](https://www.geeksforgeeks.org/difference-between-sql-and-nosql/)<br>
   [Difference between RDBMS and ORDBMS](https://www.geeksforgeeks.org/difference-between-rdbms-and-ordbms/?ref=rp)<br>
@@ -34,8 +34,10 @@ I would highly recommend this course. It includes detailed Lectures, Quizzes, FA
   [SQL Triggers](https://www.geeksforgeeks.org/sql-trigger-student-database/)<br>
   [Difference bwteeen Clustered and No-Clustered Indexing](https://www.geeksforgeeks.org/difference-between-clustered-and-non-clustered-index/)<br>
 - For Practice:<br>
+  [Last Minute Revision](https://www.geeksforgeeks.org/last-minute-notes-dbms/)<br>
   [Commonly Asked DBMS Questions Set 1](https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions/)<br>
   [Commonly Asked DBMS Questions Set 2](https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions-set-2/)<br>
+  
  
  ## **3. Object Oriented Programming**
  I learnt OOPS from the GFG course I mentioned at the top<br>
