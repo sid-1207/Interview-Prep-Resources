@@ -164,4 +164,7 @@
 - [Slack Architecture](https://systemdesign.one/slack-architecture/)  
 - [YouTube - System Design 1](https://www.youtube.com/watch?v=U0xTu6E2CT8)  
 - [YouTube - System Design 2](https://www.youtube.com/watch?v=iRhSAR3ldTw)  
-- [YouTube - System Design 3](https://www.youtube.com/watch?v=G32ThJakeHk)  
+- [YouTube - System Design 3](https://www.youtube.com/watch?v=G32ThJakeHk)
+
+## **Extra**
+- [System Design repo](https://github.com/ashishps1/awesome-system-design-resources)
