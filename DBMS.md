@@ -1,0 +1,15 @@
+## Database Management Systems
+- [My Notes]()
+- [GateSmashers DBMS Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+- [SQL crash course](https://www.youtube.com/watch?v=5OdVJbNCSso)
+- Important Topics:
+  - [Difference between SQL and NoSQL](https://www.geeksforgeeks.org/difference-between-sql-and-nosql/)
+  - [Difference between RDBMS and ORDBMS](https://www.geeksforgeeks.org/difference-between-rdbms-and-ordbms/?ref=rp)
+  - [Scaling in Databases](https://www.geeksforgeeks.org/horizontal-and-vertical-scaling-in-databases/)
+  - [Normalization](https://www.geeksforgeeks.org/normal-forms-in-dbms/)
+  - [SQL Triggers](https://www.geeksforgeeks.org/sql-trigger-student-database/)
+  - [Difference between Clustered and Non-Clustered Indexing](https://www.geeksforgeeks.org/difference-between-clustered-and-non-clustered-index/)
+- Practice:
+  - [Last Minute Revision](https://www.geeksforgeeks.org/last-minute-notes-dbms/)
+  - [Commonly Asked DBMS Questions Set 1](https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions/)
+  - [Commonly Asked DBMS Questions Set 2](https://www.geeksforgeeks.org/commonly-asked-dbms-interview-questions-set-2/)
