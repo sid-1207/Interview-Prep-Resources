@@ -1,0 +1,13 @@
+## Object Oriented Programming
+- [Object Oriented Programming Concepts](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/#intro)
+- [Virtual Function](https://www.geeksforgeeks.org/virtual-function-cpp/)
+- [Virtual Functions and Runtime Polymorphism](https://www.geeksforgeeks.org/virtual-functions-and-runtime-polymorphism-in-c-set-1-introduction/)
+- [Override keyword](https://www.geeksforgeeks.org/override-keyword-c/)
+- [Calling Functions and Overriding Behaviour](https://www.learncpp.com/cpp-tutorial/calling-inherited-functions-and-overriding-behavior/)
+- [final Specifier](https://www.geeksforgeeks.org/c-final-specifier/)
+- [Association / Aggregation / Composition](https://www.geeksforgeeks.org/association-composition-aggregation-java/)
+- C Concepts:
+  - [Preprocessor Directives](https://www.geeksforgeeks.org/cc-preprocessors/)
+  - [Dynamic Memory Allocation](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+  - [Structure vs Union](https://www.geeksforgeeks.org/difference-structure-union-c/)
+  - [Storage Classes in C](https://www.geeksforgeeks.org/storage-classes-in-c/)
