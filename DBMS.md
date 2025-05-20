@@ -1,5 +1,5 @@
 ## Database Management Systems
-- [My Notes]()
+- [My Notes](https://github.com/sid-1207/Interview-Prep-Resources/blob/main/DBMS%20Notes.pdf)
 - [GateSmashers DBMS Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 - [SQL crash course](https://www.youtube.com/watch?v=5OdVJbNCSso)
 - Important Topics:
